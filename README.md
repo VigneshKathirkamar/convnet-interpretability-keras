@@ -1,3 +1,5 @@
+## This repository is forked from https://github.com/himanshurawlani/convnet-interpretability-keras
+
 # Visual intrepretability for Convolutional Neural Network in Keras
 Following visualization techniques are used:
 * Visualizing intermediate activations (convolution outputs)
